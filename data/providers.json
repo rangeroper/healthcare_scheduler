@@ -1,0 +1,126 @@
+[
+  {
+    "id": "PROV001",
+    "personalInfo": {
+      "firstName": "Amanda",
+      "lastName": "Chen",
+      "title": "Dr.",
+      "email": "amanda.chen@hospital.com",
+      "phone": "(555) 111-2222"
+    },
+    "professionalInfo": {
+      "specialty": "Cardiology",
+      "credentials": ["MD", "FACC"],
+      "licenseNumber": "IL123456",
+      "department": "Cardiovascular Medicine",
+      "yearsExperience": 12,
+      "education": "Harvard Medical School"
+    },
+    "schedule": {
+      "workingDays": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+      "workingHours": {
+        "start": "08:00",
+        "end": "17:00"
+      },
+      "lunchBreak": {
+        "start": "12:00",
+        "end": "13:00"
+      }
+    },
+    "status": "Active",
+    "hireDate": "2018-06-15"
+  },
+  {
+    "id": "PROV002",
+    "personalInfo": {
+      "firstName": "Robert",
+      "lastName": "Martinez",
+      "title": "Dr.",
+      "email": "robert.martinez@hospital.com",
+      "phone": "(555) 222-3333"
+    },
+    "professionalInfo": {
+      "specialty": "Family Medicine",
+      "credentials": ["MD", "AAFP"],
+      "licenseNumber": "IL234567",
+      "department": "Primary Care",
+      "yearsExperience": 8,
+      "education": "Northwestern University"
+    },
+    "schedule": {
+      "workingDays": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+      "workingHours": {
+        "start": "07:00",
+        "end": "16:00"
+      },
+      "lunchBreak": {
+        "start": "12:00",
+        "end": "13:00"
+      }
+    },
+    "status": "Active",
+    "hireDate": "2020-03-10"
+  },
+  {
+    "id": "PROV003",
+    "personalInfo": {
+      "firstName": "Lisa",
+      "lastName": "Thompson",
+      "title": "Dr.",
+      "email": "lisa.thompson@hospital.com",
+      "phone": "(555) 333-4444"
+    },
+    "professionalInfo": {
+      "specialty": "Pediatrics",
+      "credentials": ["MD", "FAAP"],
+      "licenseNumber": "IL345678",
+      "department": "Pediatric Care",
+      "yearsExperience": 15,
+      "education": "University of Chicago"
+    },
+    "schedule": {
+      "workingDays": ["Monday", "Tuesday", "Wednesday", "Thursday"],
+      "workingHours": {
+        "start": "08:00",
+        "end": "17:00"
+      },
+      "lunchBreak": {
+        "start": "12:00",
+        "end": "13:00"
+      }
+    },
+    "status": "Active",
+    "hireDate": "2015-09-01"
+  },
+  {
+    "id": "PROV004",
+    "personalInfo": {
+      "firstName": "James",
+      "lastName": "Anderson",
+      "title": "Dr.",
+      "email": "james.anderson@hospital.com",
+      "phone": "(555) 444-5555"
+    },
+    "professionalInfo": {
+      "specialty": "Orthopedics",
+      "credentials": ["MD", "AAOS"],
+      "licenseNumber": "IL456789",
+      "department": "Orthopedic Surgery",
+      "yearsExperience": 20,
+      "education": "Mayo Clinic"
+    },
+    "schedule": {
+      "workingDays": ["Tuesday", "Wednesday", "Thursday", "Friday"],
+      "workingHours": {
+        "start": "07:00",
+        "end": "15:00"
+      },
+      "lunchBreak": {
+        "start": "12:00",
+        "end": "13:00"
+      }
+    },
+    "status": "Active",
+    "hireDate": "2012-01-15"
+  }
+]

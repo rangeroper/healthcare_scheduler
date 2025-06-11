@@ -1,0 +1,13 @@
+[
+  {
+    "patientId": "PAT002",
+    "providerId": "PROV001",
+    "appointmentTypeId": "APT002",
+    "date": "2025-06-20T05:00:00.000Z",
+    "time": "08:00",
+    "status": "Scheduled",
+    "id": "APT1749684649303",
+    "createdAt": "2025-06-11T23:30:49.303Z",
+    "updatedAt": "2025-06-11T23:30:49.303Z"
+  }
+]

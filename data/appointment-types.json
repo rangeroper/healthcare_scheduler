@@ -1,0 +1,42 @@
+[
+  {
+    "id": "APT001",
+    "name": "Initial Consultation",
+    "duration": 60,
+    "description": "First-time patient consultation and examination",
+    "category": "Consultation",
+    "cost": 250.0
+  },
+  {
+    "id": "APT002",
+    "name": "Follow-up Visit",
+    "duration": 30,
+    "description": "Follow-up appointment for existing patients",
+    "category": "Follow-up",
+    "cost": 150.0
+  },
+  {
+    "id": "APT003",
+    "name": "Annual Physical",
+    "duration": 45,
+    "description": "Comprehensive annual physical examination",
+    "category": "Preventive",
+    "cost": 300.0
+  },
+  {
+    "id": "APT004",
+    "name": "Procedure Consultation",
+    "duration": 45,
+    "description": "Consultation for surgical or medical procedures",
+    "category": "Consultation",
+    "cost": 200.0
+  },
+  {
+    "id": "APT005",
+    "name": "Emergency Visit",
+    "duration": 30,
+    "description": "Urgent care appointment",
+    "category": "Emergency",
+    "cost": 400.0
+  }
+]
