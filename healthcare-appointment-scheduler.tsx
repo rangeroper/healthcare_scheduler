@@ -2,7 +2,6 @@
 
 import { useState, useEffect } from "react"
 import { Header } from "./components/header"
-import { Footer } from "./components/footer"
 import { PatientsModal } from "./components/patients-modal"
 import { ProvidersModal } from "./components/providers-modal"
 import { ReportsModal } from "./components/reports-modal"
@@ -194,7 +193,6 @@ export default function HealthcareAppointmentScheduler() {
           <section className="transition-all duration-300 ease-in-out">{renderView()}</section>
         </div>
       </main>
-      <Footer />
 
       {/* Modals */}
       <PatientsModal open={showPatientsModal} onOpenChange={setShowPatientsModal} />
